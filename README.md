@@ -1,7 +1,7 @@
 # 1ndiSpider
 Fast Web Crawler
 
-### Comming soon
+### Coming soon
 
 
 
